@@ -100,7 +100,7 @@
             "default-features": false
         },
         {
-            "name": "nlohmanna",
+            "name": "nlohmann-json",
             "default-features": false
         },
         {
